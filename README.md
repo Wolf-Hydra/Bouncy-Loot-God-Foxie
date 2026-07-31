@@ -1,3 +1,5 @@
+test
+
 # Bouncy-Loot-God
 An Archipelago.gg integration for Borderlands 2 and Borderlands The Pre-Sequel
 
